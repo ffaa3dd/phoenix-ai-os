@@ -40,5 +40,5 @@ mypy==1.7.1
 pylint==3.0.3
 
 # Security
-pyjwt==2.8.1
+pyjwt==2.13.0
 bcrypt==4.1.1
